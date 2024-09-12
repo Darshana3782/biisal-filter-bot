@@ -44,7 +44,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3</a>
 😚 ᴍʏ ᴛʀᴜsᴛʏ sᴛᴇᴇᴅ: <a href="https://github.com/Mayuri-Chan/pyrofork">ᴘʏʀᴏғᴏʀᴋ</a>
 🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : Unknown
-🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://t.me/Jacksparrow11Bot">ʙɪɪsᴀʟ</a>
+🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://t.me/Jacksparrow11Bot">𝐃𝐫.</a>
 🧑🏻‍💻 ʀᴇᴘᴏ : <a href="https://t.me/Jacksparrow11Bot">ʟɪɴᴋ</a>
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
